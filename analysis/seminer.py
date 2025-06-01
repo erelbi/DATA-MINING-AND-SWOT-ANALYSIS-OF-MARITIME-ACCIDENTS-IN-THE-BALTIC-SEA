@@ -8,7 +8,7 @@ from sklearn.neighbors import LocalOutlierFactor
 from statsmodels.tsa.arima.model import ARIMA
 import warnings
 
-# Uyarıları kapatalım
+
 warnings.filterwarnings("ignore")
 
 # Veri setini yükle
